@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Encrypted Recorder</string>
+    <string name="date_button">choose a date then press button</string>
+    <string name="pd">Pick a date</string>
+    <string name="tocalendar">Click to Calendar</string>
+    <string name="d">Date</string>
+    <string name="n">New user</string>
+    <string name="o">Old User</string>
+    <string name="welcome">Welcome</string>
+    <string name="Deakin_day">Deakin day</string>
+    <string name="Event">Event</string>
+    <string name="H">The red point under number means holiday </string>
+    <string name="cledr">Calendar</string>
+    <string name="email">Email Vlidating</string>
+    <string name="facebook_app_id">157303694847778</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">MMGrj77dpEQBBOdheHecd7v42</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">ABCeWUHa9zz48npRK4UyGcPu9gr3GGLQUjIeLtU4hCkBHOxlST</string>
+
+</resources>

@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/chengzu/.android/build-cache/962a459b1636b90d0f0fa0580d2e2b800811b28e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="93dbcb6695ede7eb2ac82aeb2e84eb0e8c8309d4">
+        <dex dex="/Users/chengzu/Desktop/calendar/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b6b43e8b9fbf102bb8b1f50c29a180e5edca5f22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chengzu/.android/build-cache/6b747000ba1647273da96d0c5e52bc65334517e8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/chengzu/Desktop/calendar/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3d4db2f3bc5ea649f0552ffe21f56a06e4164af8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chengzu/.android/build-cache/2186b0f2262558bfcdf9a05274e4da50f8cf8dac/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/chengzu/Desktop/calendar/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7f318adbe483ad12ec723a3a5473e9c41573e6a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chengzu/.gradle/caches/modules-2/files-2.1/com.twitter/twitter-text/1.14.3/71218d7dd9435e8b43e5ccf117bec37cb78fa2eb/twitter-text-1.14.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="71218d7dd9435e8b43e5ccf117bec37cb78fa2eb">
+        <dex dex="/Users/chengzu/Desktop/calendar/app/build/intermediates/transforms/dex/debug/folders/1000/10/twitter-text-1.14.3_5a97cefb7946f0f1abedef7994f942c443c2c6d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chengzu/Desktop/calendar/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/chengzu/Desktop/calendar/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5286435c6228321289e572d27abb109851d7f8b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chengzu/.android/build-cache/6269430ab0dda7d4d004665b7e178fb97fc7fb9c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/chengzu/Desktop/calendar/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1848e5ec2f78da752647305ad5087022eb3d93a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chengzu/.android/build-cache/f3d83dc7bc7592faf7505199bc4529310667aeaa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e09663005d70dcedff0bb77211b9ac52d8b69421">
+        <dex dex="/Users/chengzu/Desktop/calendar/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cc49b1dd4049362c1e183b29ff5059967853eb41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shared/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/chengzu/Desktop/calendar/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_83323e2b2d58746702b89e8cacf439fe74d50414/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chengzu/.android/build-cache/ad81bbd50abaf606ba58f3614deff4ba3ef9463b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a936d1131ec6d65a7094eb4ec37ecf6704f9a336">
+        <dex dex="/Users/chengzu/Desktop/calendar/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_47ba1adb33f5b7d7387bc54a72bc60b40d9393c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chengzu/.android/build-cache/bcc24044167cba0059231fa507cfa5bde3430368/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="aebd345a61f563da0989cbd014479c8bf7bd77ab">
+        <dex dex="/Users/chengzu/Desktop/calendar/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6fbbb8665e58e4358364eefa99010a814adc9f64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chengzu/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/chengzu/Desktop/calendar/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_5921dc520d73e8572ca419a04f6dd574e5db1bba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chengzu/.android/build-cache/432735b279202a07920da56f2a28b6479f8907a5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="213a75f93fa2961a4c69566ef3c9a365c70a8693">
+        <dex dex="/Users/chengzu/Desktop/calendar/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6838c5b33991a68eb0e4a9e03655b3b22f2aa6b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chengzu/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/chengzu/Desktop/calendar/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_5a870fe1416929b7f056daec5d407e3ef3cfc57f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chengzu/.android/build-cache/4961440e2acf5b10f062696b42f8c521ff717946/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/chengzu/Desktop/calendar/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_09922fe88a01cf92836675c5ebb0ccd603718e0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chengzu/.android/build-cache/2c35b40e29ce20fce329e36079c9e51d807dbab7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/chengzu/Desktop/calendar/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cafe4823fbaed87c11402149b04bd9bb1d30ded2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chengzu/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/chengzu/Desktop/calendar/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_7e88bcd59bdd65452f7c27601e13fbffd3086840/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chengzu/.android/build-cache/0e5cd8f2208830e53bfce979167a52b87dc6163a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/chengzu/Desktop/calendar/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a42af46dc4bb5d01878d59133092f5aedbc03d4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chengzu/.android/build-cache/84edbc2e1ea42627669d399564a6d864f3ab75be/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="/Users/chengzu/Desktop/calendar/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5d5d3893c84141744f992807439a78116aa8d717/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chengzu/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.2/ccde00f7ccc77af5a6d5752e2cb21f6d8998289f/okhttp-3.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ccde00f7ccc77af5a6d5752e2cb21f6d8998289f">
+        <dex dex="/Users/chengzu/Desktop/calendar/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.2_7a807811f2781234dc5a01953906dbd5f7ab7ee9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chengzu/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.3.0/73c49077166faa4c3c0059c5f583d1d7bd1475fe/core-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="/Users/chengzu/Desktop/calendar/app/build/intermediates/transforms/dex/debug/folders/1000/10/core-3.3.0_f0b75f89a2f8bb53fd7dcb8c72376fa66f6a95c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chengzu/Desktop/calendar/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6ce49db7b58457faaaf64d07e05de209dc2ce05e">
+        <dex dex="/Users/chengzu/Desktop/calendar/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3a797dca63655a2c6ff5f28cc362a25d84a74b9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chengzu/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/chengzu/Desktop/calendar/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_7d0187b7df716ad5fe6028f15375f15c43938ff3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chengzu/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/chengzu/Desktop/calendar/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_2cb8d040770d15a10b609b01ee7edcd8d3fb077c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chengzu/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/chengzu/Desktop/calendar/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_7beaf46cd06dca36293d92e8f462cad3b508de9c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chengzu/.android/build-cache/53e08cbade09b469be5ca7babd9cb25b043e52d7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/chengzu/Desktop/calendar/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e09888abec63ad20e7207d71d78c44cd03d4c6a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chengzu/.android/build-cache/252bf2a42993e0bbaeea95b5215f63ac72b37e73/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/chengzu/Desktop/calendar/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8266934ef2db4ff98b2849732e58c3d4b04fe38e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chengzu/.android/build-cache/1e2417a09dc2646a7401066f8d3de239efe66579/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9df547a8c3f971d9e8ed570b5e36c44a9dc7632f">
+        <dex dex="/Users/chengzu/Desktop/calendar/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a1a76cd197140e474b235b4335aa03f2d641a03c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chengzu/.android/build-cache/b3a3ec812992693f1e598749f60a35c996901db4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/chengzu/Desktop/calendar/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2a0b59fae1ef3de3d888499b91f64d384f5a7b36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chengzu/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/chengzu/Desktop/calendar/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_fb6df6926f2efc533ad3c7e1eaa6b5d7c311af88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shared/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/chengzu/Desktop/calendar/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_b65d77834f8b0a12a12c0529dcddbf493bd77993/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chengzu/.android/build-cache/24a09e5aba15a729ae39fad1f6fdcd49e6b44e31/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/chengzu/Desktop/calendar/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4d1fefd370871e61b3d05f1b18556c25a15713b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chengzu/.android/build-cache/753d2f347fc79fffb0203b3559863dc79cfec96c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/chengzu/Desktop/calendar/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e682f6ea1ae912c2c837e9373f72b91a2b9fc591/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chengzu/.android/build-cache/abfcdb6f4aa03e825bf339bf2da61f1b59561e70/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c6525f06e39d6c9e88d5b86ce6fe0351bc674a80">
+        <dex dex="/Users/chengzu/Desktop/calendar/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cae87f291b64c69ea9f4eb4cb5d8c51522c34265/classes.dex" />
+    </item>
+
+</items>
