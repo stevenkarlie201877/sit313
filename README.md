@@ -1,5 +1,6 @@
 # sit313
-Installation and usage: You can easily run this App through Android studio without any bugs.
+Installation and usage: You can easily run this App through Android studio without any bugs. 
+ATTENTION: please change the API level if the App does not work;
 
 Week 1&2 portfolio
 Git link: https://github.com/stevenkarlie201877/SIT313-project
