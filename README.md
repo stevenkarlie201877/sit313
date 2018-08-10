@@ -3,7 +3,7 @@ Installation and usage: You can easily run this App through Android studio witho
 ATTENTION: please change the API level if the App does not work;
 
 Week 1&2 portfolio
-Git link: https://github.com/stevenkarlie201877/SIT313-project
+Git link: https://github.com/stevenkarlie201877/sit313
 
 •	What I have implemented: I have changed my project topic from contact app to 
 Weather forecast app.
